@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "224015832368",
+    "firebase_url": "https://whizbettingtips-default-rtdb.firebaseio.com",
+    "project_id": "whizbettingtips",
+    "storage_bucket": "whizbettingtips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224015832368:android:11cd00c950621055d4a4f5",
+        "android_client_info": {
+          "package_name": "com.rf9.tips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoqNQGJyJxHhM00BfNgTXSOti8xPeW30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224015832368:android:7562f6df24f9f37ad4a4f5",
+        "android_client_info": {
+          "package_name": "com.whiz.wintipsspecial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoqNQGJyJxHhM00BfNgTXSOti8xPeW30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

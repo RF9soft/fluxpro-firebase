@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Whiz Betting Tips</string>
+    <string name="daily_win_tips">Daily Win Tips</string>
+    <string name="safe_picks">Safe Picks</string>
+    <string name="daily_5_odds">Daily 5+ Odds</string>
+    <string name="treble_tips">Treble Tips</string>
+    <string name="over_under">Over/Under</string>
+    <string name="mixed_tips">Mixed Tips</string>
+    <string name="access_all_vip">Buy All VIP</string>
+    <string name="unlocked_all_vip">Unlocked</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="tel_link">https://t.me/+J2aQCBPI5TRkZDJl</string>
+    <string name="privacy_policy">https://wintipsbettingtips.blogspot.com/2023/03/wintips-betting-tips-privacy-policy.html</string>
+    <string name="notification_channel_id_message">whiz</string>
+
+</resources>
